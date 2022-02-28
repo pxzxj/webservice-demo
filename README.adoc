@@ -4,3 +4,5 @@
 
 - `server` 是使用 `cxf` 构建的webservice服务端，它是一个Spring Boot应用可以直接启动，启动后浏览器访问 `http://localhost:8080/Service/Hello?wsdl` 就可以看到wsdl
 - `client` 是webservice的客户端示例
+
+
